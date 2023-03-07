@@ -1,4 +1,4 @@
-<h3>REST (REpresentational State Transfer)</h3>
+<h3>REST (REpresentational State Transfer)<h3>
 <img src = "assets/restapi.png">
 
 REST Rules
@@ -24,11 +24,11 @@ Typically, an API will define a set of endpoints or URLs that a client can use t
 When a client makes a request to an API endpoint, it sends a request message that contains information about the operation to be performed and any required data. The server processes the request and sends back a response message that contains the result of the operation or an error message if the request could not be processed.
 
 
-<img src = "assets/oldarch.png">
+<img src = "assets/old.png">
 <img src = "assets/new.png">
 
 
-<h3> REST VS GRAPHQL</h3>
+<h3> REST VS GRAPHQL
 
 Here are some of the key differences between REST and GraphQL:
 
