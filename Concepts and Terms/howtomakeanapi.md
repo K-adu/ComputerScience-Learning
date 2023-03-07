@@ -1,4 +1,4 @@
-<h3>Developing an API algorithm and flowchart typically involves the following steps:<h3>
+<h3>Developing an API algorithm and flowchart typically involves the following steps:</h3>
 
 Define the API endpoints and methods: The first step in developing an API algorithm is to define the endpoints and methods that the API will support. For example, you may define endpoints for creating, updating, and deleting resources, and methods such as GET, POST, PUT, and DELETE.
 
