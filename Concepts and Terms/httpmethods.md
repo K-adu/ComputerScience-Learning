@@ -6,12 +6,15 @@ delete=>DELETE<br>
 
 <h4>The Get Method<h4>
 Get method is used to retrieve or get the information from the given server using a given URL. In REST CURD, it performs the read operation.
+  <br>
 <img src ="assets/htmlget.png">
-
+<br>
 <img src ="https://miro.medium.com/v2/resize:fit:700/1*AVNlBFRef_1pAWxbGiwFAA.png">
 
 <h4>The Post Method</h4>
-Post is used for sending data to the server such as uploading a file or transferring some data or adding a new row to the back end table to any kind of web form. In a simple sentence, we can say that the post method is used for inserting new items in the backend server. In REST CRUD operation it performs the create operation.<br>
+Post is used for sending data to the server such as uploading a file or transferring some data or adding a new row to the back end table to any kind of web form. In a simple sentence, we can say that the post method is used for inserting new items in the backend server. In REST CRUD operation it performs the create operation.
+  <br>
+  <br>
 <img src ="https://miro.medium.com/v2/resize:fit:700/1*13jE8kY5YjRCpNeXCOycCw.png">
 <img src ="https://miro.medium.com/v2/resize:fit:700/1*hP-pAtiRx52VKAIC1VD9pw.png">
 <br>
