@@ -20,3 +20,4 @@ A JWT consists of three parts: a header, a payload, and a signature. The header 
 JWTs are typically issued by an authentication server, which generates a token after a user has successfully authenticated. The token can then be sent to the client and included in subsequent requests as a means of verifying the user's identity and access privileges.
 <img src="https://www.freecodecamp.org/news/content/images/2023/01/token-based-authentication.jpg">
 One of the benefits of using JWTs is that they are stateless, meaning that the server does not need to maintain a session or keep track of user data. This can make it easier to scale and secure web applications. Additionally, JWTs can be easily decoded and verified, making them a popular choice for modern web applications.
+hgello my name is buddha
